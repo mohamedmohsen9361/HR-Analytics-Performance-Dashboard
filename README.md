@@ -30,7 +30,14 @@ A comprehensive Power BI project transforming raw HR data (30+ columns) into key
 * 🟢 **Solution:** Engineered the composite **EXI metric** to aggregate satisfaction metrics into a single, unbiased baseline for clear executive decision-making.
   
 ---
+
+
+<img width="1372" height="760" alt="Screenshot 2026-09-14 213551" src="https://github.com/user-attachments/assets/14f75123-db54-4464-b452-1d4abfc847f5" />
+
+
 <img width="1381" height="778" alt="Screenshot 2026-09-14 213608" src="https://github.com/user-attachments/assets/6e50a6da-7b64-44a3-aac8-2c18bf663805" />
+
+
 <img width="1381" height="760" alt="Screenshot 2026-09-14 213638" src="https://github.com/user-attachments/assets/504962b3-8c1e-45b7-92c3-4f8f6731a9ef" />
 
 ---
