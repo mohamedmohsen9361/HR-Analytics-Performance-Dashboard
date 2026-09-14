@@ -39,7 +39,3 @@ A comprehensive Power BI project transforming raw HR data (30+ columns) into key
 
 
 <img width="1381" height="760" alt="Screenshot 2026-09-14 213638" src="https://github.com/user-attachments/assets/504962b3-8c1e-45b7-92c3-4f8f6731a9ef" />
-
----
-
-📷 *Note: Screenshots and interactive demo links available above.*
