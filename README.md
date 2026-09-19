@@ -9,7 +9,7 @@ A comprehensive Power BI project transforming raw HR data (30+ columns) into key
 ---
 ### 🎥 Live Video Demonstration
 
-[![Watch Video]([[https://img.shields.io/badge/Watch_Project_Demo-Video-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE](https://www.linkedin.com/posts/mohamed-mohsen-a91b68365_dataanalysis-powerbi-hranalytics-activity-7495446383684947969-2ydt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFrDNg0BXZ-oe0EYQy9PVcjzfvDSkLaBX3c)](https://youtu.be/ZqmdRQSjjVw?si=wJSbV5cs-gnpLFj2))
+[![Watch Video](https://img.shields.io/badge/Watch_Project_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/ZqmdRQSjjVw)
 
 > 🍿 **Project Walkthrough:** A comprehensive video explaining the data pipeline, DAX measures, and interactive report functionality.
 ---
